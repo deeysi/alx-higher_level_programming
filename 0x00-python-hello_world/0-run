@@ -1,26 +1,2 @@
 #!/bin/bash
-python3 $PYFILE
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-"0-run" [New File]                                            0,0-1         All
-
+python3 "$PYFILE"
