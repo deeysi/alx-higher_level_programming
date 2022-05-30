@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-with open("zenP.txt") as f:
-    for wo in f:
-        print(wo)
-print()
+file1 = open("zenp.txt")
+print(file1.read()[:-1])
+file1.close()
